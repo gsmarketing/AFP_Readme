@@ -2,7 +2,7 @@
 Contributors: none
 Requires at least: 5.3
 Tested up to: 6.0.1
-Stable tag: 2.0.38
+Stable tag: 2.0.39
 Requires PHP: 5.6.40
 License: Commercial & GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -29,6 +29,9 @@ Automated Funnel System to facilitate capture and management of users and affili
 == Screenshots ==
 
 == Changelog ==
+
+= 2.0.39 =
+* Added AFP Network Landing Input shortcode
 
 = 2.0.38 =
 * Added AFP Network Input shortcode

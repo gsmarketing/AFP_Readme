@@ -2,7 +2,7 @@
 Contributors: none
 Requires at least: 5.3
 Tested up to: 6.0.1
-Stable tag: 2.0.23
+Stable tag: 2.0.24
 Requires PHP: 5.6.40
 License: Commercial & GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -29,6 +29,9 @@ Elementor extension for the Auto Funnel Press system.
 == Screenshots ==
 
 == Changelog ==
+
+= 2.0.24 =
+* Added AFP Network User Landing Input dynamic tag
 
 = 2.0.23 =
 * Added AFP Network User Input dynamic tag
