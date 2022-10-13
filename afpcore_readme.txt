@@ -1,9 +1,9 @@
 === Auto Funnel Press ===
 Contributors: none
 Requires at least: 5.3
-Tested up to: 6.0.1
-Stable tag: 2.0.39
-Requires PHP: 5.6.40
+Tested up to: 6.0.2
+Stable tag: 2.1.0
+Requires PHP: 7.0
 License: Commercial & GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,6 +29,14 @@ Automated Funnel System to facilitate capture and management of users and affili
 == Screenshots ==
 
 == Changelog ==
+
+= 2.1.0 =
+* Changed initialization check
+* Updated Core meta
+* Updated AFP checks and validation
+* Updated fields structure
+* Start conversion of file formatting to PSR-12
+* Upgrade internal fields library
 
 = 2.0.39 =
 * Added AFP Network Landing Input shortcode

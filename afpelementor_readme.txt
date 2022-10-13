@@ -1,9 +1,9 @@
 === AFP - Elementor Extension ===
 Contributors: none
 Requires at least: 5.3
-Tested up to: 6.0.1
-Stable tag: 2.0.24
-Requires PHP: 5.6.40
+Tested up to: 6.0.2
+Stable tag: 2.1.0
+Requires PHP: 7.0
 License: Commercial & GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,7 +18,6 @@ Elementor extension for the Auto Funnel Press system.
 1. Upload the plugin files to the '/wp-content/plugins/afp_elementor' directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Use the AFP Settings->AFP License screen to activate your license before being able to configure AFPv2.
-4. Use the AFP Settings->AFP Extensions screen to enable the extension.
 
 == Frequently Asked Questions ==
 
@@ -30,12 +29,19 @@ Elementor extension for the Auto Funnel Press system.
 
 == Changelog ==
 
+= 2.1.0 =
+* Changed initialization check
+* Updated Extension meta
+* Updated all AFP Blocks to new Elementor standard
+* Updated fields structure
+* Start conversion of file formatting to PSR-12
+
 = 2.0.24 =
 * Added AFP Network User Landing Input dynamic tag
 
 = 2.0.23 =
 * Added AFP Network User Input dynamic tag
-* Update Extension meta
+* Updated Extension meta
 
 = 2.0.22 =
 * Fixed compatibility issue with Elementor 3.6.0
