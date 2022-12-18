@@ -1,0 +1,56 @@
+=== AFP - Sendshark Extension ===
+Contributors: none
+Requires at least: 5.3
+Tested up to: 6.0.2
+Stable tag: 2.1.0
+Requires PHP: 7.0
+License: Commercial & GPLv2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Sendshark extension for the Auto Funnel Press system.
+
+== Description ==
+
+Sendshark extension for the Auto Funnel Press system.
+
+== Installation ==
+
+1. Upload the plugin files to the '/wp-content/plugins/afp_sendshark' directory, or install the plugin through the WordPress plugins screen directly.
+2. Activate the plugin through the 'Plugins' screen in WordPress.
+3. Use the AFP Settings->AFP License screen to activate your license before being able to configure AFPv2.
+
+== Frequently Asked Questions ==
+
+= A list of frequently asked questions can be found on the official website. =
+
+[AFPv2 FAQ](https://autofunnelpress.com/faq/ "Auto Funnel Press - FAQ")
+
+== Screenshots ==
+
+== Changelog ==
+
+= 2.1.0 =
+* Changed initialization check
+* Updated Extension meta
+* Updated Updater mechanism
+* Updated fields structure
+* Start conversion of file formatting to PSR-12 standards
+
+= 2.0.3 =
+* Updated Sendshark Extension meta information
+* Updated Sendshark Extension execution to be less volatile
+
+= 2.0.2 =
+* Updated Sendshark to support logging added in AFP Core
+
+= 2.0.1 =
+* Adjust the way Sendshark lists are selected
+* Fix issue with Sendshark transmission
+
+= 2.0.0 =
+* Sendshark Extension Release
+
+== Upgrade Notice ==
+
+= 2.0.1 =
+This version fixes an issue with the AFP Sendshark extension list selection and API transmission. Upgrade immediately.
