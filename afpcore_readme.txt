@@ -1,9 +1,9 @@
 === Auto Funnel Press ===
 Contributors: none
 Requires at least: 5.3
-Tested up to: 6.0.2
-Stable tag: 2.1.0
-Requires PHP: 7.0
+Tested up to: 6.2.2
+Stable tag: 2.2.0
+Requires PHP: 7.4
 License: Commercial & GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,6 +29,26 @@ Automated Funnel System to facilitate capture and management of users and affili
 == Screenshots ==
 
 == Changelog ==
+
+= 2.2.0 =
+* Restructure and Expand the Access Restriction System
+* Restructure and Expand the Paid Access System
+* Deprecated older Access Restriction and Paywall systems
+* Added new Buy Now Block
+* Added Transactions
+* Added Billing History Block
+* Added Internal Affiliate Reward System
+* Added Affiliate Commission Block
+* Added New Setup Utility
+* Upgrade internal fields library
+
+= 2.1.2 =
+* Fixed issue with extensions options loading incorrectly.
+
+= 2.1.1 =
+* Updated Core meta
+* Upgrade internal fields library
+* Fixed landing options bug
 
 = 2.1.0 =
 * Changed initialization check
@@ -244,6 +264,9 @@ Automated Funnel System to facilitate capture and management of users and affili
 * Auto Funnel Press Rebuild Release
 
 == Upgrade Notice ==
+
+= 2.1.0 =
+This version is volatile, it is not backwards compatible with other AFP extensions below version 2.1.0. Please update all extensions to the latest version.
 
 = 2.0.24 =
 This version fixes an issue where reordering items with Unique IDs would shift the outputs based on the order

@@ -1,9 +1,9 @@
 === AFP - Listshift Extension ===
 Contributors: none
 Requires at least: 5.3
-Tested up to: 6.0.2
-Stable tag: 2.1.0
-Requires PHP: 7.0
+Tested up to: 6.2.2
+Stable tag: 2.2.0
+Requires PHP: 7.4
 License: Commercial & GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,6 +28,10 @@ Listshift extension for the Auto Funnel Press system.
 == Screenshots ==
 
 == Changelog ==
+
+= 2.2.0 =
+* Fixed erroneous itemid value passed in activation
+* Updated Extension meta
 
 = 2.1.0 =
 * Listshift Extension Release
