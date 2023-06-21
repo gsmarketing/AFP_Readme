@@ -2,7 +2,7 @@
 Contributors: none
 Requires at least: 5.3
 Tested up to: 6.2.2
-Stable tag: 2.2.0
+Stable tag: 2.2.1
 Requires PHP: 7.4
 License: Commercial & GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -29,6 +29,10 @@ Automated Funnel System to facilitate capture and management of users and affili
 == Screenshots ==
 
 == Changelog ==
+
+= 2.2.1 =
+* Fixed issue with registrations generating transactions when they shouldn't
+* Fixed anomaly with AFP Elementor activation on installations without Elementor Pro (required plugin)
 
 = 2.2.0 =
 * Restructure and Expand the Access Restriction System
