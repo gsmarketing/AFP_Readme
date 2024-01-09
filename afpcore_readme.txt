@@ -1,8 +1,8 @@
 === Auto Funnel Press ===
 Contributors: none
 Requires at least: 5.3
-Tested up to: 6.2.2
-Stable tag: 2.2.2
+Tested up to: 6.4.2
+Stable tag: 2.2.3
 Requires PHP: 7.4
 License: Commercial & GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -29,6 +29,9 @@ Automated Funnel System to facilitate capture and management of users and affili
 == Screenshots ==
 
 == Changelog ==
+
+= 2.2.3 =
+* Added a simple soft anti-spam honeypot to the registration form
 
 = 2.2.2 =
 * Fixed an issue with Elementor Pro and AFP Elementor load order conditions
